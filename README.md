@@ -1,12 +1,17 @@
 Hi there,👋 You can call me Gleen, a Full-Stack Developer from Cameroon
 
-🔭 I’m currently a full-time student at Microverse Inc.
-🌱 I’m currently learning Full Stack Web Development (Ruby on Rails, JavaScript and React) and Cloud Computing.
+
 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project.
-🤔 I’m passionate about programming and I love Meditation,travelling,fitness and dancing as well
+😄 I am also remotely part-timing as a mentor at microverse, a remote pair-programming community for developers developing web development and remote work skills
+💬 Ask me about Web Development
+☎️ I’m on the look out for remote full stack web development opportunities
 📫 Let's connect on LinkedIn and on Twitter
 😄 Pronouns: A femalewhocode and More
-⚡ Fact about me:Am just starting out as a software developer and superb excited 
+⚡ Fun fact: When the problem is complexity, the cure might just be simplicity
+
+
+
+
 
 <!---
 Gleennkar/Gleennkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
