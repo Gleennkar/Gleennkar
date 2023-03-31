@@ -4,7 +4,7 @@ Hi there,👋 You can call me Gleen, a Full-Stack Developer from Cameroon
 - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project.
 - 😄 I am also remotely part-timing as a mentor at microverse, a remote pair-programming community for developers developing web development and remote work skills
 - 💬 Ask me about Web Development
-- ☎️ I’m on the look out for remote full stack web development opportunities
+- ☎️ I’m on the look out for remote full stack web development opportunities, front-end development, Back-end: development
 - 📫 Let's connect on LinkedIn and on Twitter
 - 😄 Pronouns: A femalewhocode and More
 - ⚡ Fun fact: When the problem is complexity, the cure might just be simplicity
