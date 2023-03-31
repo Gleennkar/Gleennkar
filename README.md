@@ -1,4 +1,4 @@
-Hi there,👋 You can call me Gleen
+Hi there,👋 You can call me Gleen, a Full-Stack Developer from Cameroon
 
 🔭 I’m currently a full-time student at Microverse Inc.
 🌱 I’m currently learning Full Stack Web Development (Ruby on Rails, JavaScript and React) and Cloud Computing.
