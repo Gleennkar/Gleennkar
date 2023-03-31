@@ -9,7 +9,7 @@ Hi there,👋 You can call me Gleen, a Full-Stack Developer from Cameroon
 - 😄 Pronouns: A femalewhocode and More
 - ⚡ Fun fact: When the problem is complexity, the cure might just be simplicity
 
-My skill set includes 
+**My skill set includes** 
 
 - Front-end development: JavaScript | React | Redux | jQuery | HTML5 | CSS3 
 - Back-end: development: Ruby, Rails, PHP, Java
